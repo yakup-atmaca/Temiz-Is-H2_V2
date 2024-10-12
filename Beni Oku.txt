@@ -1,0 +1,10 @@
+Bu programýn çalýþmasý için;
+1- Bilgisayarýnýzda JRE(Java Runtime Environment) kurulu olmalýdýr. 
+2- Bilgisayarýnýzýn Mac adresinin þifrelenmiþ olarak app.properties dosyasýnda ilgili yerde olmasý gerekmektedir.
+3- Veritabaný baðlantý ayarlarýnýn doðru olmasý gerekmektedir.
+
+Ayrýca;
+* Bu program tek bilgisayar üzerinde çalýþýr. Çoklu kullaným için lütfen irtibata geçiniz. 
+* Bu program oto yýkama, ürün satýþý, lastik deðiþimi vs. iþlemlerin kaydýný tutmak için yapýlmýþtýr.
+* Farklý bilgisayarda çalýþabilmesi için o bilgisayarýn mac adresi þifrelenmiþ olarak app.properties dosyasýnda ilgili yerde olmalýdýr.
+* Teknik destek almak veya öneride bulunmak için yakup.atmaca@gmail.com adresine e-posta gönderebilirsiniz.
